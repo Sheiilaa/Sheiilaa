@@ -28,5 +28,6 @@ Después de muchos años dedicandome a otros oficiones (por una parte estética 
 <a href="https://fb.com/sheila arenillas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sheila arenillas" height="30" width="40" /></a>
 <a href="https://instagram.com/sheiiilaa18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sheiiilaa18" height="30" width="40" /></a>
 </p>
+[linkedIn](linkedin.com/in/sheila-arenillas)
 
 [Email](sheila18.sa@gmail.com)
