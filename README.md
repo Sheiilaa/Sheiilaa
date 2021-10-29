@@ -16,10 +16,8 @@ Después de muchos años dedicandome a otros oficiones (por una parte estética 
 
 ### Aficiones y cosas de interes:
 -  Amante de la fotografía 📷.
-
 - Apasionada de la música y del baile 🎶.
-
-- Me encanta el poder trabajar con otras personas 🫂
+- Me encanta el poder trabajar con otras personas
 
 ## Contacto: 
 <p align="left">
